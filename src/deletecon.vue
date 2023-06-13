@@ -1,0 +1,3 @@
+<template>
+    deletecon.vue
+</template>
